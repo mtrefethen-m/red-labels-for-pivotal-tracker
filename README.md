@@ -1,3 +1,4 @@
+Boo!
 # Red Labels for Pivotal Tracker
 
 This Chrome extension for Pivotal Tracker makes it very easy to see which of
